@@ -56,7 +56,6 @@ O foco é **didático e formativo**, permitindo aplicar as boas práticas de QA 
 ## Principais Stakeholders do Projeto:
 - **QA responsável:** Miguel Luis  
 - **Usuários-alvo do projeto:** Estudantes e profissionais de QA  
-- **Mentor/Orientador (se aplicável):** Herbet  
 - **Plataforma utilizada:** Automation Practice
 
 ---
