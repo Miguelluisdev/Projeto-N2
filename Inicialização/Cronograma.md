@@ -28,9 +28,3 @@
 | Finalização do projeto/documento| 20/05/2025      |
 
 ---
-
-## 📌 Observações
-
-- As datas podem ser ajustadas conforme o andamento das tarefas.
-- Recomenda-se atualizar o cronograma em uma planilha ou ferramenta como **Trello**, **JIRA** ou **Google Sheets**, com status das tarefas (a fazer, em andamento, concluído).
-- O QA pode também usar **gráficos de Gantt** para visualização do progresso. *(Caso deseje, posso montar um modelo.)*
