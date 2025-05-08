@@ -46,10 +46,3 @@ Este projeto é composto pelos seguintes documentos principais
 *   **Análise de Recursos:** Orçamento, alocação e aquisição de recursos.
 *   **Tabela de Priorização MoSCoW:** Priorização de funcionalidades e testes.
 *   **Diagramas/Modelos:** (Se aplicável, ex: Tabelas de Decisão).
-
-
-No README de Apresentação, o tom é mais voltado para mostrar suas habilidades e o que foi realizado, como se estivesse apresentando para um recrutador ou colega.
-
-No README de Visão Geral, o tom é mais técnico e direto, para quem vai interagir com o projeto (você mesmo no futuro, ou um colaborador).
-
-Você pode adicionar screenshots ou GIFs no README de Apresentação para torná-lo mais visual e atraente, especialmente se você tiver uma interface de relatório bonita para os testes automatizados.
