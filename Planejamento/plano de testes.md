@@ -8,7 +8,7 @@
 
 ### 1. **Introdução**
 
-Este documento descreve o plano para a execução de testes manuais e automatizados no site [automationpractice.com.br](http://automationpractice.com.br) (referido como AUT - Application Under Test). O objetivo principal deste projeto é educacional, visando aplicar e aprimorar conhecimentos em análise de requisitos, planejamento, execução e automação de testes de software, utilizando as funcionalidades de e-commerce do AUT como base. Este plano orientará todas as atividades de teste subsequentes.
+Este documento descreve o plano para a execução de testes manuais e automatizados no site [automationpractice.com.br](http://automationpractice.com.br) O objetivo principal deste projeto é educacional, visando aplicar e aprimorar conhecimentos em análise de requisitos, planejamento, execução e automação de testes de software, utilizando as funcionalidades de e-commerce do AUT como base. Este plano orientará todas as atividades de teste subsequentes.
 
 ---
 
