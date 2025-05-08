@@ -125,11 +125,11 @@ Baseado nos RFs definidos, as seguintes áreas funcionais serão testadas:
 ### 7. **Cronograma (Estimativa de Alto Nível por Fase da EAP)**
 
 * **Fase 1 (Planejamento):** Concluída
-* **Fase 2 (Configuração Ambiente):** \[Estimar duração, ex: 1-2 dias]
-* **Fase 3 (Design Testes):** \[Estimar duração, ex: 3-5 dias]
-* **Fase 4 (Desenvolvimento Automação):** \[Estimar duração, ex: 10-15 dias]
-* **Fase 5 (Execução Testes):** \[Estimar duração, ex: 3-5 dias]
-* **Fase 6 (Análise e Relatórios):** \[Estimar duração, ex: 1-2 dias]
+* **Fase 2 (Configuração Ambiente):** \[ duração, ex: 1-2 dias]
+* **Fase 3 (Design Testes):** \[ duração, ex: 3-5 dias]
+* **Fase 4 (Desenvolvimento Automação):** \[ duração, ex: 10-15 dias]
+* **Fase 5 (Execução Testes):** \[ duração, ex: 3-5 dias]
+* **Fase 6 (Análise e Relatórios):** \[ duração, ex: 1-2 dias]
 * **Fase 7 (Gerenciamento e Encerramento):** Contínuo
 
 ---
