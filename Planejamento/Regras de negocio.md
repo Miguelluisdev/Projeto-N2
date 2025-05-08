@@ -8,7 +8,7 @@ As Regras de Negócio (RN) ditam as **políticas**, **restrições** e **lógica
 
 - **RN01**: Cada conta de usuário deve ser associada a um endereço de email único no sistema.
 - **RN02**: Um endereço de email deve ter um formato válido (contendo "@" e um domínio) para ser aceito no cadastro ou login.
-- **RN03**: (Se aplicável) As senhas de usuário devem atender a critérios mínimos de complexidade definidos (ex: comprimento mínimo, caracteres especiais, etc.).
+- **RN03**: As senhas de usuário devem atender a critérios mínimos de complexidade definidos (ex: comprimento mínimo, caracteres especiais, etc.).
 - **RN04**: O login no sistema só é permitido mediante a combinação correta de um email registrado e sua senha correspondente.
 - **RN05**: Um usuário logado tem permissão para visualizar e gerenciar suas informações pessoais, endereços e histórico de pedidos na área "Minha Conta".
 - **RN06**: A alteração de informações pessoais sensíveis (como senha, talvez nome/email) pode exigir a confirmação da senha atual do usuário.
@@ -32,8 +32,8 @@ As Regras de Negócio (RN) ditam as **políticas**, **restrições** e **lógica
 - **RN19**: Apenas produtos (ou variações específicas) que estão "Em estoque" podem ser adicionados ao carrinho de compras.
 - **RN20**: A quantidade de um produto a ser adicionada ao carrinho deve ser um número inteiro positivo (maior que zero).
 - **RN21**: (Implícita, comum) A quantidade adicionada ao carrinho pode ser limitada pela quantidade disponível em estoque para aquele produto/variação.
-- **RN22**: (Se aplicável) Usuários logados podem adicionar produtos a uma Lista de Desejos (Wishlist) pessoal.
-- **RN23**: (Se aplicável) Produtos podem ser selecionados para uma ferramenta de comparação, que exibirá atributos chave lado a lado.
+- **RN22**: Usuários logados podem adicionar produtos a uma Lista de Desejos (Wishlist) pessoal.
+- **RN23**:  Produtos podem ser selecionados para uma ferramenta de comparação, que exibirá atributos chave lado a lado.
 
 ---
 
@@ -45,10 +45,10 @@ As Regras de Negócio (RN) ditam as **políticas**, **restrições** e **lógica
 - **RN27**: O carrinho de compras deve exibir o valor TOTAL final do pedido (produtos + frete + impostos - descontos).
 - **RN28**: A quantidade de um item no carrinho pode ser alterada pelo usuário, o que deve automaticamente recalcular os totais.
 - **RN29**: Itens podem ser removidos do carrinho pelo usuário, o que deve automaticamente recalcular os totais.
-- **RN30**: (Se aplicável) Cupons de desconto válidos podem ser aplicados no carrinho ou checkout.
+- **RN30**: Cupons de desconto válidos podem ser aplicados no carrinho ou checkout.
 - **RN31**: O sistema deve validar a existência, validade (datas, limites de uso) e aplicabilidade de um cupom antes de aplicar o desconto.
 - **RN32**: A aplicação de um cupom deve reduzir o valor TOTAL do pedido.
-- **RN33**: (Implícita, comum) Pode haver um limite de quantos cupons podem ser usados por pedido (geralmente apenas um).
+- **RN33**: Pode haver um limite de quantos cupons podem ser usados por pedido (geralmente apenas um).
 - **RN34**: O processo de checkout só pode ser iniciado se houver pelo menos um item no carrinho.
 - **RN35**: O cálculo do custo de frete é baseado no endereço de entrega selecionado e na opção de transportadora escolhida.
 - **RN36**: O usuário deve selecionar explicitamente uma opção de frete disponível para prosseguir no checkout.
@@ -65,7 +65,3 @@ As Regras de Negócio (RN) ditam as **políticas**, **restrições** e **lógica
 - **RN42**: As mensagens enviadas pelo formulário de contato devem gerar uma notificação interna para a equipe responsável.
 - **RN43**: A inscrição na newsletter requer um endereço de email válido e único na lista de assinantes.
 - **RN44**: Todo tráfego em páginas sensíveis (login, cadastro, checkout, minha conta) deve ocorrer sobre conexão segura (HTTPS).
-
----
-
-Estas regras de negócio definem as restrições e lógicas fundamentais que governam o funcionamento do e-commerce *automationpractice.com.br*, servindo como guia tanto para o desenvolvimento quanto para a criação de cenários de teste que verifiquem a conformidade do sistema com as expectativas do negócio.
