@@ -15,7 +15,6 @@ Demonstrar uma abordagem estruturada para testar uma aplicação web complexa, d
     *   **Plano de Testes Completo:** Estratégia, escopo, recursos e cronograma.
     *   **Casos de Teste Manuais Detalhados:** Cobertura para diversos cenários.
     *   **EAP, Análise de Recursos e Priorização MoSCoW:** Gerenciamento e planejamento do projeto de teste.
-    *   *(Todos os documentos podem ser encontrados na pasta `/docs`)*
 
 ## 📈 Principais Funcionalidades Cobertas pelos Testes:
 
