@@ -157,8 +157,7 @@
 | :---------------------------------------------------------------------------- |
 | **DADO** que estamos na página de cadastro da Automation-Pratice                      |
 | **E** preenchemos "Nome: João Silva", "Email: joao@email.com"                |
-| **E** preenchemos "Senha: senha123" e "Confirmação de Senha: senha123"       |
-| **E** desmarcamos a opção "Criar conta com saldo"                            |
+| **E** preenchemos "Senha: senha123" e "Confirmação de Senha: senha123"       |                         |
 | **QUANDO** clicarmos no botão "Cadastrar"                                    |
 | **ENTÃO** a conta deve ser criada e o usuário redirecionado à tela de login  |
 
@@ -178,7 +177,7 @@
 
 | **Passos**                                                          |
 | :------------------------------------------------------------------ |
-| **DADO** que estamos na página de cadastro da BugBank              |
+| **DADO** que estamos na página de cadastro da Automation-Pratice              |
 | **E** deixamos todos os campos vazios                              |
 | **QUANDO** clicarmos no botão "Cadastrar"                          |
 | **ENTÃO** mensagens de erro devem ser exibidas em todos os campos  |
@@ -199,7 +198,7 @@
 
 | **Passos**                                                          |
 | :------------------------------------------------------------------ |
-| **DADO** que estamos na página de cadastro da BugBank              |
+| **DADO** que estamos na página de cadastro da Automation-Pratice              |
 | **E** deixamos o campo "Nome" em branco                            |
 | **E** preenchemos os demais campos corretamente                    |
 | **QUANDO** clicarmos no botão "Cadastrar"                          |
@@ -221,7 +220,7 @@
 
 | **Passos**                                                        |
 | :---------------------------------------------------------------- |
-| **DADO** que estamos na página de cadastro da BugBank            |
+| **DADO** que estamos na página de cadastro da Automation-Pratice            |
 | **E** deixamos o campo "Email" em branco                         |
 | **E** preenchemos os demais campos corretamente                  |
 | **QUANDO** clicarmos no botão "Cadastrar"                        |
@@ -243,7 +242,7 @@
 
 | **Passos**                                                         |
 | :----------------------------------------------------------------- |
-| **DADO** que estamos na página de cadastro da BugBank             |
+| **DADO** que estamos na página de cadastro da Automation-Pratice            |
 | **E** deixamos o campo "Senha" em branco                          |
 | **E** preenchemos os demais campos corretamente                   |
 | **QUANDO** clicarmos no botão "Cadastrar"                         |
@@ -265,7 +264,7 @@
 
 | **Passos**                                                                  |
 | :-------------------------------------------------------------------------- |
-| **DADO** que estamos na página de cadastro da BugBank                      |
+| **DADO** que estamos na página de cadastro da Automation-Pratice                      |
 | **E** preenchemos todos os campos com os mesmos dados já cadastrados       |
 | **QUANDO** clicarmos no botão "Cadastrar"                                  |
 | **ENTÃO** uma mensagem de erro deve ser exibida na tela                    |
@@ -288,7 +287,7 @@
 
 | **Passos**                                                                               |
 | :---------------------------------------------------------------------------------------- |
-| **DADO** que estamos na página de login da BugBank                                      |
+| **DADO** que estamos na página de login da Automation-Pratice                                      |
 | **E** clicamos em "Esqueci minha senha"                                                 |
 | **E** preenchemos o e-mail "usuario@email.com"                                          |
 | **QUANDO** recebermos o e-mail e redefinirmos a senha para "novaSenha123"               |
@@ -311,7 +310,7 @@
 
 | **Passos**                                                        |
 | :---------------------------------------------------------------- |
-| **DADO** que estamos na área logada da BugBank                   |
+| **DADO** que estamos na área logada da Automation-Pratice                   |
 | **QUANDO** clicarmos em "Sign out"                               |
 | **ENTÃO** o usuário deve ser deslogado e redirecionado à tela de login |
 
