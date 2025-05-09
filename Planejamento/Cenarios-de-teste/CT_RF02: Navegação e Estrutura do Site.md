@@ -12,11 +12,11 @@
 
 ## Cenário 01: Navegação e Estrutura do Site
 
-#### Caso de Teste 01: Deve navegar para a PLP de Mulheres pelo menu principal.
+#### Caso de Teste 01: Deve navegar para a PLP de Eletronicos pelo menu principal.
 
 | ID       | Descrição                                                                 |
 | :------- | :------------------------------------------------------------------------ |
-| C02-CT01 | Clicar em "Mulheres" no menu principal redireciona para a PLP de Eletronicos. |
+| C02-CT01 | Clicar em "Eletronicos" no menu principal redireciona para a PLP de Eletronicos. |
 
 | **Pré-condições**                          |
 | :----------------------------------------- |
@@ -25,7 +25,7 @@
 | **Passos**                                                         |
 | :----------------------------------------------------------------- |
 | **DADO** que estamos na Homepage                                    |
-| **QUANDO** clicarmos em "Mulheres" no menu principal                |
+| **QUANDO** clicarmos em "Eletronicos" no menu principal                |
 | **ENTÃO** devemos ser redirecionados para a página de listagem de produtos (PLP) de Eletronicos|
 
 | **Critérios de aceitação**                                                |
