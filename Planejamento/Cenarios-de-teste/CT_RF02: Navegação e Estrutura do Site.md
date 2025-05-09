@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-# Cenários e Casos de Teste RF01
+# Cenários e Casos de Teste RF02
 
 **Software:** Automation-Pratice
 
