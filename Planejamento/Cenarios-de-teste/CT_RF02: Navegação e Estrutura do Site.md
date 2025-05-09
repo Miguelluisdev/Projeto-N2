@@ -30,7 +30,7 @@
 
 | **Critérios de aceitação**                                                |
 | :------------------------------------------------------------------------ |
-| A PLP de Mulheres deve ser carregada corretamente com produtos visíveis.  |
+| A PLP de Eletronicos deve ser carregada corretamente com produtos visíveis.  |
 
 #### Caso de Teste 02: Deve retornar à Homepage ao clicar no logo.
 
