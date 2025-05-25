@@ -1,7 +1,7 @@
 # 📝 Relatório de Testes Manuais - Cenário 01: Navegação e Estrutura do Site
 
 ## 🔗 URL Testada
-https://qazando-shop.com
+[https://qazando-shop.com](https://automationpratice.com.br/)
 
 ## 🗓️ Data dos Testes
 24/05/2025
