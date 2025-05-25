@@ -1,6 +1,6 @@
 # Projeto-N2
 
-👋 Olá! Este repositório documenta um projeto completo de análise, planejamento e execução de testes (manuais e automatizados) realizado no site de e-commerce `automationpractice.com.br`. O projeto foi desenvolvido como uma iniciativa pessoal para aplicar e demonstrar conhecimentos em diversas áreas do ciclo de vida de teste de software.
+👋 Olá! Este repositório documenta um projeto completo de análise, planejamento e execução de testes (manuais e automatizados) realizado no site de e-commerce `automationpractice.com.br`(vale ressaltar que o site testado foi disponibilizado pela Qazando então não é permitido para teste quem não está nas trilhas da Qazando). O projeto foi desenvolvido como uma iniciativa pessoal para aplicar e demonstrar conhecimentos em diversas áreas do ciclo de vida de teste de software.
 
 ## 🚀 Objetivo Principal
 
