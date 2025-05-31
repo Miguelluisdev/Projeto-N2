@@ -1,35 +1,38 @@
-# 🔮 Próximos Passos
+# 🛠️ O que Melhorar
 
-Após a conclusão deste projeto, seguem as direções para **aprimorar habilidades e ampliar a atuação profissional**:
+A seguir estão os principais pontos identificados para **melhoria contínua** com base na experiência adquirida neste projeto:
 
-## 🧪 Ferramentas e Tecnologias
-✅ **Estudar Cypress**: Explorar recursos avançados de testes de interface e E2E.  
-✅ **Robot Framework**: Consolidar conhecimento em automação de testes baseada em palavras-chave.  
-✅ **Playwright**: Entender como realizar testes de ponta a ponta em múltiplos navegadores com este framework.  
-✅ **Testes de API com Postman**: Aprofundar nas práticas de validação de endpoints e autenticação.  
-✅ **Testes Mobile com Appium**: Melhorar a automação e cobertura em dispositivos móveis.  
+## 🚀 Melhorias em Práticas de Automação
+- Aplicar **boas práticas de automação**, como:
+  - Uso de Page Object Model (POM) ou padrões similares.
+  - Scripts de teste mais limpos e reutilizáveis.
+  - Testes confiáveis e estáveis.
+- Ampliar o escopo de automação para:
+  - **Mais sites diferentes**, testando diversas tecnologias e plataformas.
+  - Aprender a lidar com **novos tipos de sistemas e cenários**.
+- Documentar melhor os testes automatizados para facilitar futuras manutenções.
 
-## 🗄️ Banco de Dados e SQL
-✅ **Aprofundar no SQL**: Dominar consultas, índices, joins e performance para criar testes e análises mais robustas.
+## 📈 Melhoria de Entrega e Planejamento
+- **Melhorar a entrega** das sprints, garantindo que prazos sejam cumpridos e evitando atrasos.
+- Corrigir o atraso que ocorreu nas **Sprints 3 e 4**, que impactou a entrega final (previamente prevista para o início de maio).
+- Reforçar o uso das cerimônias do Scrum:
+  - **Daily Sprint**: Realizar de forma mais objetiva, alinhando bloqueios e progressos.
+  - **Sprint Review**: Usar de forma mais eficaz para apresentar resultados e feedbacks reais.
+  - **Sprint Retrospective**: Melhor documentada para consolidar aprendizados.
 
-## 🔄 Integração e Entrega Contínua
-✅ **GitLab e CI/CD**: Aprender a configurar pipelines para automação de builds, testes e deploys.
-
-## 🛡️ Testes de Segurança e Performance
-✅ Iniciar práticas de **testes de segurança** para identificar vulnerabilidades.  
-✅ Explorar **testes de performance** para medir e otimizar respostas.
-
-## 📚 Normas e Regulamentações
-✅ **Normas ISO**: Compreender padrões de qualidade e segurança para projetos de software.  
-✅ **LGPD**: Estudar requisitos legais e boas práticas para proteção de dados pessoais.
-
-## 🌟 Soft Skills e Desenvolvimento Pessoal
-✅ Aprimorar:
-- Comunicação eficaz.  
-- Trabalho em equipe e empatia.  
-- Pensamento crítico e adaptabilidade.
+## 📊 Planejamento de Tarefas e Pontuação
+- Utilizar melhor a **pontuação de Fibonacci** para as tasks, tornando mais realista e ajustada à complexidade.
+- Refinar as user stories antes do início de cada sprint para evitar surpresas e escopos mal definidos.
 
 ---
 
-> 💡 **O aprendizado contínuo e a evolução são fundamentais para consolidar uma carreira sólida e garantir entregas de alto valor ao cliente!**
+## 🌟 Compromisso com a Melhoria Contínua
+A implementação destas melhorias permitirá:
+✅ Entregas mais ágeis e de maior qualidade.  
+✅ Melhor previsibilidade e confiança no cronograma.  
+✅ Aumento da cobertura e robustez dos testes, tanto manuais quanto automatizados.  
+✅ Evolução das habilidades técnicas e de gestão do time.
 
+---
+
+> 🔍 **Melhoria contínua é a chave para entregas de sucesso e para o crescimento como profissional e como equipe!**
